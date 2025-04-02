@@ -1,0 +1,5 @@
+sampleName	fileName	condition	group
+A1_CTR	A1_CTR.STAR.gene.count	CONTROL	A1_CTR
+A2_CTR	A2_CTR.STAR.gene.count	CONTROL	A2_CTR
+A1_TUMOR	A1_TUMOR.STAR.gene.count	TUMOR	A1_TUMOR
+A2_TUMOR	A1_TUMOR.STAR.gene.count	TUMOR	A2_TUMOR

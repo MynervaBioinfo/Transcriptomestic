@@ -1,0 +1,5 @@
+sampleName	fileName	condition	group
+A1_CTR	A1_CTR.hisat2.gene.count.featureCounts.tsv	CONTROL	A1_CTR
+A2_CTR	A2_CTR.hisat2.gene.count.featureCounts.tsv	CONTROL	A2_CTR
+A1_TUMOR	A1_TUMOR.hisat2.gene.count.featureCounts.tsv	TUMOR	A1_TUMOR
+A2_TUMOR	A2_TUMOR.hisat2.gene.count.featureCounts.tsv	TUMOR	A2_TUMOR
